@@ -1,0 +1,24 @@
+# Research Request: Vue 3 + Pinia + Firebase 專案建置
+
+根據 docs/PRD.md 的技術架構需求，需要建立完整的專案基礎設施。
+
+## 任務需求
+
+**技術棧**:
+- Vue 3 前端框架
+- Pinia 狀態管理
+- Firebase Firestore 資料庫
+- Firebase Auth (單一使用者認證)
+
+## 需要研究的重點
+
+1. **專案結構**: Vue 3 + Vite 專案初始化最佳實踐
+2. **狀態管理**: Pinia stores 架構設計
+3. **Firebase 整合**: SDK 安裝與配置方式
+4. **認證機制**: 單一使用者 Firebase Auth 設定
+5. **資料模型**: Firestore 資料結構設計（基於 PRD 需求）
+6. **開發環境**: 環境變數、本地開發配置
+
+## 產出檔案
+
+請產生: `.copilot-tracking/research/20260107-vue3-pinia-firebase-setup-research.md`
